@@ -1,4 +1,4 @@
-# 📊 Sales Data Analysis Dashboard
+# 📊 Call Center Performance & Sales Analytics
 
 An interactive **Sales Data Analysis Dashboard built in Microsoft Excel** to analyze sales performance, identify trends, and present business insights through a clear and interactive visual report.
 
@@ -38,9 +38,9 @@ The dashboard provides a consolidated view of sales performance, including:
 
 ## 📂 Repository Contents
 
-| File                                      | Description                                                |
-| ----------------------------------------- | ---------------------------------------------------------- |
-| `Sales Report analysis dashboard(1).xlsx` | Excel workbook containing the sales analysis and dashboard |
+| File                                                                                                                                 | Description                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+| [`Call Center Performance & Sales Analysis Dashboard.xlsx`](./Call%20Center%20Performance%20%26%20Sales%20Analysis%20Dashboard.xlsx) | Excel workbook containing the sales analysis and dashboard |
 
 ## 👤 Author
 
