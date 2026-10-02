@@ -34,7 +34,7 @@ The dashboard provides a consolidated view of sales performance, including:
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](Images/dashboard.png)
 
 ## 💡 Key Skills Demonstrated
 
