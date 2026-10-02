@@ -8,11 +8,11 @@ This project focuses on analyzing sales data and transforming it into a structur
 
 ## 🎯 Objectives
 
-- Analyze sales data to understand overall business performance
-- Identify important trends and patterns across different categories and segments
-- Summarize key metrics using Pivot Tables and Excel functions
-- Create meaningful visualizations for easier data interpretation
-- Develop an interactive dashboard for sales performance analysis
+* Analyze sales data to understand overall business performance
+* Identify important trends and patterns across different categories and segments
+* Summarize key metrics using Pivot Tables and Excel functions
+* Create meaningful visualizations for easier data interpretation
+* Develop an interactive dashboard for sales performance analysis
 
 ## 🛠️ Tools & Techniques
 
@@ -22,11 +22,11 @@ This project focuses on analyzing sales data and transforming it into a structur
 
 The dashboard provides a consolidated view of sales performance, including:
 
-- Key Performance Indicators (KPIs)
-- Sales trends and performance patterns
-- Category and segment comparisons
-- Performance analysis across available business dimensions
-- Interactive visual reporting
+* Key Performance Indicators (KPIs)
+* Sales trends and performance patterns
+* Category and segment comparisons
+* Performance analysis across available business dimensions
+* Interactive visual reporting
 
 ## 🔄 Approach
 
@@ -34,7 +34,7 @@ The dashboard provides a consolidated view of sales performance, including:
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](images/Dashboard(2).png)
+![Dashboard Preview](images/dashboard.png)
 
 ## 💡 Key Skills Demonstrated
 
@@ -42,11 +42,11 @@ The dashboard provides a consolidated view of sales performance, including:
 
 ## 📂 Repository Contents
 
-| File | Description |
-|---|---|
+| File                                                                                                                                 | Description                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
 | [`Call Center Performance & Sales Analysis Dashboard.xlsx`](./Call%20Center%20Performance%20%26%20Sales%20Analysis%20Dashboard.xlsx) | Excel workbook containing the sales analysis and interactive dashboard |
 
 ## 👤 Author
 
-**Tanmay Khandait**  
+**Tanmay Khandait**
 Data Analyst | Excel · SQL · Power BI · Tableau · Python
